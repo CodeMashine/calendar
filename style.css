@@ -1,0 +1,25 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+    /* border:2px solid black ; */
+}
+
+td,
+th {
+    text-align: center;
+    width: 2rem;
+    height: 1rem;
+    border: 2px solid black;
+}
+
+.monthNav , .yearNav {
+    text-align:center ;
+}
+
+.Sat{
+    background:rgba(216, 93, 93, 0.5)
+}
+
+.Sun{
+    background:rgba(240, 7, 7, 0.5)
+}
